@@ -1,6 +1,6 @@
 {
   "name": "@gameleap/capacitor-chromecast",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a plugin for Capacitor that enables Chromecast functionality for iOS and Android.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
